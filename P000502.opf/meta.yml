@@ -3,5 +3,18 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W1KG12539
   title: ཕྱག་ཆེན་ལྔ་ལྡན་སོགས་ཀྱི་ཁྲིད་ཡིག་ཟབ་རྒྱས་རིན་ཆེན་ཕྲེང་བ།
-  volume: ''
+  volume:
+    4acf135eed7b47209ea0f511862315b0:
+      image_group_id: I1KG12570
+      title: Volume 1 of phyag chen lnga ldan sogs kyi khrid yig zab rgyas rin chen
+        phreng ba/
+      volume_number: 1
+      total_pages: 258
   author: ''
+ebook_metadata:
+  title: ཕྱག་ཆེན་ལྔ་ལྡན་སོགས་ཀྱི་ཁྲིད་ཡིག་ཟབ་རྒྱས་རིན་ཆེན་ཕྲེང་བ།
+  author: ''
+  sku: P000502
+  cover: cover.jpg
+  layers:
+  - pagination
